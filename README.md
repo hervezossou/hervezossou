@@ -3,7 +3,7 @@
 ## About me 
 
 - 👋 Hi, I’m @hervenzoghe
-- 👀 I’m interested in UI/UX Design, Web development and Artificial Intelligence
+- 👀 I’m interested in Web Design, Web development and Artificial Intelligence
 - 🌱 I’m currently learning [Next.js](https://www.nextjs.org) framework for building Full Stack Applications
 
 ## Let's connect 
