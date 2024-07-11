@@ -11,7 +11,7 @@
 Here are tools, languages and technologies, I am realy good at :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,tailwind,py,r,sqlite,postman,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,py,r,sqlite,postman,vscode,git,github" />
   </a>
 </p>
 
