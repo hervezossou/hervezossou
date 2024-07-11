@@ -9,7 +9,7 @@
 ## Tech Stack 
 
 Here are tools, languages and technologies, I am realy good at :
-<table tabindex="0">
+<table tabindex="2">
   <tbody>
     <tr>
       <td align="center" width="84.6px">
