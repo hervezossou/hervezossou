@@ -21,7 +21,7 @@ Here are tools, languages and technologies, I am realy good at :
       </td>
       <td align="center" width="84.6px">
         <a href="https://developer.mozilla.org/fr/docs/Web/CSS" rel="nofollow">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40">
+          <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" alt="css" width="40" height="40">
           <br>
           <span>CSS</span>
         </a>
