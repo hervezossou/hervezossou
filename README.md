@@ -6,6 +6,15 @@
 - 👀 I’m interested in Web Design, Web development and Artificial Intelligence
 - 🌱 I’m currently learning [Next.js](https://www.nextjs.org) framework for building Full Stack Applications
 
+## Tech Stack 
+
+Here are tools, languages and technologies, I am realy good at :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,tailwind,py,r,sqlite,postman,vscode,git,github" />
+  </a>
+</p>
+
 ## Let's connect 
 
 I'm always open to new opportunities, collaborations, and awesome discussions. If you're interested in any of the following, let's connect:
