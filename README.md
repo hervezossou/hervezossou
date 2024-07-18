@@ -3,7 +3,7 @@
 ## About me 
 
 - 👋 Hi, I’m @hervenzoghe a Front-End Dev & Data Analyst
-- 👨🏾‍💻 I'm passionate about building user-friendly web applications and extracting valuable insights from complex data
+- 👨🏾‍💻 I'm passionate about building attractive, user-friendly web applications and extracting valuable insights from complex data
 - 💆🏽‍♂️ I'm an avid learner and kaizen philosophy enthusiastic
 - 🌱 I’m currently learning [Next.js](https://www.nextjs.org) framework for building Full Stack Applications
 
