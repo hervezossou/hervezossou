@@ -9,7 +9,7 @@
 
 ## Tech Stack 
 
-Here are tools, languages and technologies, I am realy good at :
+Here are tools, languages and technologies, I am really good at :
 <table tabindex="0">
   <tbody>
     <tr>
