@@ -96,7 +96,7 @@ I'm always open to new opportunities, collaborations, and awesome discussions. I
 - 😀 Talking about exciting ideas and bringing them to life
 - 🤝 Collaborating on projects to create original and authentic solutions
 
-Feel free to reach out to me at [contacthervenz@gmail.com](mailto:contacthervenz@gmail.com) to start a conversation. I'm looking forward to hearing from you!
+Feel free to reach out to me at [hervezossou@outlook.com](mailto:hervezossou@outlook.com) to start a conversation. I'm looking forward to hearing from you!
 
 - ⚡ Fun fact: 10 Landing Pages Integrated, 3 Portfolios Created
 
