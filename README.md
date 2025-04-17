@@ -89,7 +89,7 @@ Here are tools, languages and technologies I use (and enjoy) regularly:
 
 I enjoy building with others, learning by doing, and pushing creative ideas further. Let's talk if you:
 
--💡 Have a meaningful project or idea you want to bring to life
+- 💡 Have a meaningful project or idea you want to bring to life
 
 - 📚 Want to collaborate on education, tech for good, or UI-focused tools
 
@@ -97,7 +97,7 @@ I enjoy building with others, learning by doing, and pushing creative ideas furt
 
 📩 hervezossou@outlook.com — drop me a message anytime!
 
--⚡ Fun fact: From Crypto-Keen to container-based architecture sites, I love working on things that matter.
+- ⚡ Fun fact: From Crypto-Keen to container-based architecture sites, I love working on things that matter.
 
 <!---
 hervenzoghe/hervenzoghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
