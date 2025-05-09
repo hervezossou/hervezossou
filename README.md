@@ -1,5 +1,10 @@
 # Hi, I'm Herve Zossou
 
+[![Stars](https://img.shields.io/github/stars/hervezossou/hervezossou?style=social)](https://github.com/hervezossou/hervezossou/stargazers)
+[![Forks](https://img.shields.io/github/forks/hervezossou/hervezossou?style=social)](https://github.com/hervezossou/hervezossou/network/members)
+[![Open Issues](https://img.shields.io/github/issues/hervezossou/hervezossou)](https://github.com/hervezossou/hervezossou/issues)
+[![Last Updated](https://img.shields.io/github/last-commit/hervezossou/hervezossou)](https://github.com/hervezossou/hervezossou/commits/main)
+
 ## About me 
 
 - 👋 Hi, I’m @hervezossou, a creative and thoughtful front-end developer
@@ -10,7 +15,7 @@
 
 - 🛠️ I'm into open-source tools, clean code, and meaningful user experiences
 
-- 🌍 I also care about using tech for impact — from helping others avoid scams to building educational tools
+- ❤️ I also care about using tech for impact — from helping others avoid scams to building educational tools
 
 ## Tech Stack 
 
