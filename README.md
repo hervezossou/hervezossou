@@ -1,4 +1,4 @@
-# Hi, I'm Herve Zossou
+# Hi, I'm Hervé Zossou
 
 [![Stars](https://img.shields.io/github/stars/hervezossou/hervezossou?style=social)](https://github.com/hervezossou/hervezossou/stargazers)
 [![Forks](https://img.shields.io/github/forks/hervezossou/hervezossou?style=social)](https://github.com/hervezossou/hervezossou/network/members)
