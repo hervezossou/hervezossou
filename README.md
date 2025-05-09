@@ -5,17 +5,17 @@
 [![Open Issues](https://img.shields.io/github/issues/hervezossou/hervezossou)](https://github.com/hervezossou/hervezossou/issues)
 [![Last Updated](https://img.shields.io/github/last-commit/hervezossou/hervezossou)](https://github.com/hervezossou/hervezossou/commits/main)
 
-## About me 
+## About Me 👋 
 
-- 👋 Hi, I’m @hervezossou, a creative and thoughtful front-end developer
+👋 Hi, I’m @hervezossou, a creative and thoughtful front-end developer.
   
-- 🧠 I love building sleek, interactive UIs and exploring new tech to grow as a developer
+- 🧠 I love building sleek, interactive UIs and exploring new tech to grow as a developer.
 
-- 🚀 Currently diving into Next.js, Prisma, and modern design systems like Shadcn UI
+- 🚀 Currently diving into Next.js, Prisma, and modern design systems like Shadcn UI.
 
-- 🛠️ I'm into open-source tools, clean code, and meaningful user experiences
+- 🛠️ I'm into open-source tools, clean code, and meaningful user experiences.
 
-- ❤️ I also care about using tech for impact — from helping others avoid scams to building educational tools
+- ❤️ I also care about using tech for impact — from helping others avoid scams to building educational tools.
 
 ## Tech Stack 
 
@@ -90,7 +90,7 @@ Here are tools, languages and technologies I use (and enjoy) regularly:
   </tbody>
 </table>
 
-## Let's connect 
+## Let's connect 🤝
 
 I enjoy building with others, learning by doing, and pushing creative ideas further. Let's talk if you:
 
