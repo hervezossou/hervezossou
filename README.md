@@ -96,15 +96,15 @@ I enjoy building with others, learning by doing, and pushing creative ideas furt
 
 - 💡 Have a meaningful project or idea you want to bring to life
 
-- 📚 Want to collaborate on education, tech for good, or UI-focused tools
+- 🤝 Want to collaborate on education, tech for good, or UI-focused tools
 
-- 🧩 Need a dev who loves mixing frontend skills with a touch of backend logic
+- 🧑‍💻 Need a dev who loves mixing frontend skills with a touch of backend logic
 
 📩 hervezossou@outlook.com — drop me a message anytime!
 
 - ⚡ Fun fact: From Crypto-Keen to container-based architecture sites, I love working on things that matter.
 
 <!---
-hervenzoghe/hervenzoghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hervezossou/hervezossou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
